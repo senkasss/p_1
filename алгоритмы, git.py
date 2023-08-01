@@ -8,5 +8,4 @@ def strcounter(s):
 
 strcounter('abcddd')
 
-
-print(set('abbbcd'))
+print('gitgitgit')
